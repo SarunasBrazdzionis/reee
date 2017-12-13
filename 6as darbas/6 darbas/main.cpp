@@ -1,3 +1,8 @@
+WAI IZ DIS SO HARD ?
+    BRUSOKAITE WATAFAK AR JU DUING 
+
+
+
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
